@@ -5,13 +5,15 @@
 **luisferlomeli/luisferlomeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  
-## Hi there, I'm Luis Angel Gutiérrez Soto! 👋
+## Hi there, I'm Luis Lomeli! 👋
 
 ### About Me
-Welcome to my profile! I'm an astronomer passionate about understanding the universe and our place in it. My interests extend beyond science to include literature and philosophy, as they inspire me to explore the world from multiple perspectives. My favorite novel is *Cien años de soledad* by Gabriel García Márquez.
+Welcome to my profile! I'm an astronomer passionate about understanding the universe and our place in it. 
+#My interests extend beyond science to include literature and philosophy, as they inspire me to explore the world from multiple perspectives. 
+#My favorite novel is *Cien años de soledad* by Gabriel García Márquez.
 
 ### Personal Background
-I was born in Valledupar, Cesar, Colombia, and grew up in Manaure, Cesar. My journey in education and research has taken me across Latin America, enriching my perspective on science and collaboration.
+I was born in Guadalajara, Jalisco, México. My journey in education and research has taken me across Latin America, enriching my perspective on science and collaboration.
 
 ### Academic Background
 🎓 **Postdoctoral Researcher** at Instituto de Astrofísica de La Plata, CONICET -- UNLP, La Plata, Argentina.  
