@@ -16,12 +16,11 @@ Welcome to my profile! I'm an astronomer passionate about understanding the univ
 I was born in Guadalajara, Jalisco, México. My journey in education and research has taken me across Latin America, enriching my perspective on science and collaboration.
 
 ### Academic Background
-🎓 **Postdoctoral Researcher** at Instituto de Astrofísica de La Plata, CONICET -- UNLP, La Plata, Argentina.  
-🎓 **Postdoctoral Position** at Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG), Universidade de São Paulo, Brazil.  
-🎓 **Ph.D. in Astronomy** from Observatório do Valongo, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil.  
-🎓 **Master's Degree in Astrophysics** from CRyA, UNAM, Morelia, Michoacán, Mexico.  
-🎓 **Bachelor of Education in Mathematics and Physics** from Universidad Popular del Cesar, Colombia.  
-🎓 **Superior Normalist** with emphasis in Spanish Language from ENS María Inmaculada, Colombia.
+🎓 **Postdoctoral Researcher** at Observatório do Valongo Universidade Federal do Rio de Janeiro.  
+🎓 **Postdoctoral Position** at Instituto de Radioastronomía y Astrofísica (IRyA), UNAM. Michoacán,México  
+🎓 **Ph.D. in Astronomy**  at Instituto Nacional de Astrofísica Óptica y Electrónica (INAOE), Puebla, México
+🎓 **Master's Degree at Instituto de Radioastronomía y Astrofísica (IRyA), UNAM. Michoacán,México
+🎓 **Bachelor at Universidad de Guadalajara (UDG), Jalisco México
 
 ### Research Interests
 🔭 **Observational Astrophysics**: Studying celestial objects through advanced photometric and spectroscopic techniques.  
